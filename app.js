@@ -32,7 +32,6 @@ board.addEventListener('click', (event) => {
         createRandomCircus()
     }
 
-
 })
 
 
